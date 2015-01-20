@@ -10,12 +10,4 @@ www.github.com
 This is a code block
 ```
 
-
-Changes. Many changes. These are changes.
-
-
-Skittles
-
-Here are other changes
-
-MORE CHANGES BY HARRY AS A PRACTICE
+ONE LAST PRACTICE
